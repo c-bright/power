@@ -1,0 +1,54 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+.python-version
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Runtime / local data
+smart_data_platform_backend/app/utils/auth.json
+smart_data_platform_backend/app/utils/jd.json
+smart_data_platform_backend/app/utils/datil.json
+smart_data_platform_backend/app/utils/datil_list.json
+smart_data_platform_backend/app/utils/jd_scatter_comment.json
+smart_data_platform_backend/app/utils/da.json
+smart_data_platform_backend/jd_data.json
+smart_data_platform_backend/final_debug.png
+
+# Sensitive config
+smart_data_platform_backend/app/utils/database/config.ini
+
+# Python local env inside backend
+smart_data_platform_backend/venv/
+
+# Frontend dependencies / cache
+smart_data_platform_frontend/node_modules/
+smart_data_platform_frontend/.vite/
+

@@ -1,0 +1,50 @@
+﻿# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Frontend
+power/node_modules/
+power/dist/
+power/.env.local
+power/.env.*.local
+
+# Backend
+power_bank/venv/
+power_bank/**/__pycache__/
+power_bank/**/*.pyc
+power_bank/.pytest_cache/
+power_bank/.mypy_cache/
+power_bank/.coverage
+power_bank/htmlcov/
+power_bank/instance/config.ini
+
+# Root env
+.env
+.env.local
+.env.*.local
+
+# Docker local volumes (optional)
+docker-data/
+
+# Local blockchain / sdk runtime artifacts
+FISCO-BCOS/python-sdk/bin/logs/
+FISCO-BCOS/python-sdk/bin/accounts/
+FISCO-BCOS/python-sdk/bin/sdk.key
+FISCO-BCOS/python-sdk/bin/*.p12
+FISCO-BCOS/python-sdk/bin/*.keystore
