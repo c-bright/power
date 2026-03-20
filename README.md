@@ -2,16 +2,6 @@
 
 一个基于 `Vue 2 + Flask + MySQL + FISCO-BCOS` 的前后端分离项目，覆盖共享充电宝场景下的用户租借、订单管理、后台运营与链上同步能力。
 
-## 项目展示
-
-### 展示图 1
-
-![项目展示图1](./docs/images/preview-1.png)
-
-### 展示图 2
-
-![项目展示图2](./docs/images/preview-2.png)
-
 ## 项目简介
 
 本项目由三部分组成：
@@ -116,11 +106,11 @@ Flask 后端
 
 ### 页面展示 1
 
-![页面展示 1](./images/demo-1.png)
+![页面展示 1](./image/demo-1.png)
 
 ### 页面展示 2
 
-![页面展示 2](./images/demo-2.png)
+![页面展示 2](./image/demo-2.png)
 ## 快速开始
 
 ### 1. 启动后端
