@@ -1,0 +1,32 @@
+2026-04-11 20:09:48,625 - INFO - vector_store.py:52 - 未发现索引，将新建
+2026-04-11 20:09:48,629 - INFO - vector_store.py:120 - 新增文件: 3
+2026-04-11 20:09:48,629 - INFO - vector_store.py:130 - 写入向量库: 19 条数据
+2026-04-11 20:09:49,525 - INFO - vector_store.py:134 - 创建新索引
+2026-04-11 20:09:49,530 - INFO - vector_store.py:142 - 索引保存完成
+2026-04-11 20:10:37,516 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 20:10:37,517 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 20:10:37,517 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 20:54:36,423 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 20:54:36,430 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 20:54:36,430 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 21:12:31,222 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 21:12:31,227 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 21:12:31,227 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 21:16:55,803 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 21:16:55,809 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 21:16:55,809 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 21:18:16,113 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 21:18:16,117 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 21:18:16,117 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 21:19:18,736 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 21:19:18,737 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 21:19:18,737 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 21:20:15,417 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 21:20:15,420 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 21:20:15,420 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 21:21:29,950 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 21:21:29,964 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 21:21:29,964 - INFO - vector_store.py:127 - 没有新文档
+2026-04-11 22:03:29,193 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-11 22:03:29,199 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-11 22:03:29,199 - INFO - vector_store.py:127 - 没有新文档
