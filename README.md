@@ -114,7 +114,7 @@ power_bank/app/
 ![页面展示 2](./image/demo-2.png)
 
 智能体展示
-![页面展示 3](./image/dem0-3.png)
+![页面展示 3](./image/demo-3.png)
 
  AI 智能体
 
