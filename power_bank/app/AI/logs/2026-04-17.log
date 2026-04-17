@@ -1,0 +1,12 @@
+2026-04-17 21:00:37,162 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-17 21:00:37,189 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-17 21:00:37,190 - INFO - vector_store.py:127 - 没有新文档
+2026-04-17 21:01:44,258 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-17 21:01:44,266 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-17 21:01:44,266 - INFO - vector_store.py:127 - 没有新文档
+2026-04-17 21:14:37,366 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-17 21:14:37,379 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-17 21:14:37,381 - INFO - vector_store.py:127 - 没有新文档
+2026-04-17 21:15:13,986 - INFO - vector_store.py:47 - 加载已有索引: E:\power_bank\power_bank\app\AI\faiss_index
+2026-04-17 21:15:13,990 - INFO - vector_store.py:120 - 新增文件: 0
+2026-04-17 21:15:13,990 - INFO - vector_store.py:127 - 没有新文档
