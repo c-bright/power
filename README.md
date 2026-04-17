@@ -111,6 +111,9 @@ power_bank/app/
  页面展示 2
 
 ![页面展示 2](./image/demo-2.png)
+
+智能体展示
+![页面展示 2](./image/demo-3.png)
 快速开始
 
 1. 启动后端
