@@ -29,6 +29,7 @@
 - 管理员反馈 / 纠纷处理
 - 运营数据可视化
 - 数据库与链上合约的同步机制
+- AI 智能客服智能体（问答接口 + RAG 检索 + 数据查询）
 
  技术栈
 
@@ -114,6 +115,12 @@ power_bank/app/
 
 智能体展示
 ![页面展示 2](./image/demo-3.png)
+
+ AI 智能体
+
+- 接口：`POST /api/assistant/ask`（后端 `power_bank/app/AI/agent/routes.py`）
+- 能力：基于本地业务文本（`power_bank/app/AI/data/`）与工具调用（SQL/RAG）返回客服回答
+- 配置：`DEEPSEEK_API_KEY`（或 `OPENAI_API_KEY`）、`DEEPSEEK_BASE_URL`
 快速开始
 
 1. 启动后端
