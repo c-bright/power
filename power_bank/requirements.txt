@@ -1,0 +1,16 @@
+# Flask
+flask>=2.0
+flask-cors>=3.0
+
+# MySQL
+pymysql>=1.0
+DBUtils>=2.0
+
+# SQL 解析（初始化建表）
+sqlparse>=0.4
+
+# 区块链（sysadmin / FISCO-BCOS）
+# eth_utils 等由 FISCO-BCOS python-sdk 依赖
+
+# WeBASE
+selenium>=4.0
